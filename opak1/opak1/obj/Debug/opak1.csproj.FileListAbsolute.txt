@@ -1,0 +1,10 @@
+G:\PRG\opak1\opak1\bin\Debug\opak1.exe.config
+G:\PRG\opak1\opak1\bin\Debug\opak1.exe
+G:\PRG\opak1\opak1\bin\Debug\opak1.pdb
+G:\PRG\opak1\opak1\obj\Debug\opak1.csprojAssemblyReference.cache
+G:\PRG\opak1\opak1\obj\Debug\opak1.Form1.resources
+G:\PRG\opak1\opak1\obj\Debug\opak1.Properties.Resources.resources
+G:\PRG\opak1\opak1\obj\Debug\opak1.csproj.GenerateResource.cache
+G:\PRG\opak1\opak1\obj\Debug\opak1.csproj.CoreCompileInputs.cache
+G:\PRG\opak1\opak1\obj\Debug\opak1.exe
+G:\PRG\opak1\opak1\obj\Debug\opak1.pdb
