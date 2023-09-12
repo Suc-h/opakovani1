@@ -100,7 +100,7 @@ namespace opak1
             int pocet = (int)numericUpDown1.Value;
             while (pocet > 0)
             {
-                cisla.Add(rng.Next(-4, 100));
+                cisla.Add(rng.Next(-4, 101));
                 pocet--;
             }
             vypisCisel(cisla, listBox1);
@@ -136,7 +136,7 @@ namespace opak1
                 index++;
             }
             arprumer = soucet / index;
-            textBox1.Text = "Průměr:" + arprumer;
+            textBox1.Text = "Průměr:" + Math.Round(arprumer, 2);
         }
 
         private void button5_Click(object sender, EventArgs e)
