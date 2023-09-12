@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opak1", "opak1\opak1.csproj", "{44AE5BE7-25CC-4340-98EC-78BDA8F5984B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AE5BE7-25CC-4340-98EC-78BDA8F5984B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AE5BE7-25CC-4340-98EC-78BDA8F5984B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AE5BE7-25CC-4340-98EC-78BDA8F5984B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AE5BE7-25CC-4340-98EC-78BDA8F5984B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6393B0D-F954-406C-A94E-2747E6E8C14D}
+	EndGlobalSection
+EndGlobal
